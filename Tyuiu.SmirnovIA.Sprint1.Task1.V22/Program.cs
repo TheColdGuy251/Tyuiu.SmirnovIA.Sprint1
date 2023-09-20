@@ -17,7 +17,7 @@ namespace Tyuiu.SmirnovIA.Sprint1.Task1.V22
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                 *"); 
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #22                                                             *");
             Console.WriteLine("* Выполнил: Смирнов Илья Алексеевич | ИИПб-23-3");
