@@ -20,7 +20,7 @@ namespace Tyuiu.SmirnovIA.Sprint1.Task3.V10
             Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #10                                                             *");
-            Console.WriteLine("* Выполнил: Смирнов Илья Алексеевич | ИИПб-23-3");
+            Console.WriteLine("* Выполнил: Смирнов Илья Алексеевич | ИИПб-23-3                           *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, *");
